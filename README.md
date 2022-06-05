@@ -1,11 +1,11 @@
-OBSERVACIONES
+<p OBSERVACIONES
 	Los paquetes delos views están separados por carpetas.
 	Se aplican los códigos de la inserción de datos al ser escritos
 	Los crud cambian se ubicación.
 CONCLUSIONES
 	Los CRUDs son importantes para nuestro portafolio porque es un método para la pagina aplicar cuatro funciones  a la vez.
 	Se recomienda poner en carpetas lo que quiere que sea configurable para el usuarios ya que hay archivos que el no podrá configurar.
-	Estos crud son para poder agregar datos además de actualizarlos y ponerlos.
+	Estos crud son para poder agregar datos además de actualizarlos y ponerlos.></p>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
